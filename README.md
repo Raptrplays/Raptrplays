@@ -16,7 +16,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Microsoft_Office_Visio_%282019%29.svg/2149px-Microsoft_Office_Visio_%282019%29.svg.png" width="20px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raptrplays&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raptrplays)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+
 
 <br> <br> <br>
 
